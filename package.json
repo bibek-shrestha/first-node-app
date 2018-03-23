@@ -1,0 +1,29 @@
+{
+  "name": "first-node-app",
+  "version": "1.0.0",
+  "description": "First node app using node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bibek-shrestha/first-node-app"
+  },
+  "keywords": [
+    "first",
+    "node",
+    "app",
+    "serverside",
+    "javascript"
+  ],
+  "author": "Bibek Shrestha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bibek-shrestha/first-node-app/issues"
+  },
+  "homepage": "https://github.com/bibek-shrestha/first-node-app#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
